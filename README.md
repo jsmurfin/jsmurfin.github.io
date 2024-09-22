@@ -1,5 +1,5 @@
 # jsmurfin.github.io
-Joshua Murin 
+Joshua Murfin 
 jsmurfin@my.waketech.edu
 My GitHub account has one repository.
 My repository has this information included inside it.
